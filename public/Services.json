@@ -1,0 +1,170 @@
+[
+  {
+    "label": "Cavity Protection",
+    "value": "CavityProtection",
+    "slots": [
+      {
+        "name": "Cavity",
+        "image": "https://i.ibb.co/jTWC3v0/2.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/4VdzGck/Untitled-1.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/0JQzWvv/3.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/QJp1dZL/5.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/C8T5y5j/4.png"
+      }
+    ],
+    "title": "Electro Gastric Therapy",
+    "img": "https://i.ibb.co/YkmnGN4/cavity.jpg"
+  },
+  {
+    "label": "Cosmetic Dentists",
+    "value": "CosmeticDentists",
+    "slots": [
+      {
+        "name": "Cavity",
+        "image": "https://i.ibb.co/jTWC3v0/2.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/4VdzGck/Untitled-1.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/0JQzWvv/3.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/QJp1dZL/5.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/C8T5y5j/4.png"
+      }
+    ],
+    "title": "Electro Dentist Therapy",
+    "img": "https://i.ibb.co/rppDY1K/assistant-dentist-patient-clinic.jpg"
+  },
+  {
+    "label": "Oral Surgery",
+    "value": "OralSurgery",
+    "slots": [
+      {
+        "name": "Cavity",
+        "image": "https://i.ibb.co/jTWC3v0/2.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/4VdzGck/Untitled-1.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/0JQzWvv/3.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/QJp1dZL/5.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/C8T5y5j/4.png"
+      }
+    ],
+    "title": "Electro Surgery Therapy",
+    "img": "https://i.ibb.co/Fs15PTM/oral.jpg"
+  },
+  {
+    "label": "Teeth Orthodontics",
+    "value": "TeethOrthodontics",
+    "slots": [
+      {
+        "name": "Cavity",
+        "image": "https://i.ibb.co/jTWC3v0/2.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/4VdzGck/Untitled-1.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/0JQzWvv/3.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/QJp1dZL/5.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/C8T5y5j/4.png"
+      }
+    ],
+    "title": "Electro Gastric Therapy",
+    "img": "https://i.ibb.co/YkmnGN4/cavity.jpg"
+  },
+  {
+    "label": "Teeth Cleaning",
+    "value": "TeethCleaning",
+    "slots": [
+      {
+        "name": "Cavity",
+        "image": "https://i.ibb.co/jTWC3v0/2.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/4VdzGck/Untitled-1.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/0JQzWvv/3.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/QJp1dZL/5.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/C8T5y5j/4.png"
+      }
+    ],
+    "title": "Electro Dentist Therapy",
+    "img": "https://i.ibb.co/rppDY1K/assistant-dentist-patient-clinic.jpg"
+  },
+  {
+    "label": "Pediatric Dental",
+    "value": "PediatricDental",
+    "slots": [
+      {
+        "name": "Cavity",
+        "image": "https://i.ibb.co/jTWC3v0/2.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/4VdzGck/Untitled-1.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/0JQzWvv/3.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/QJp1dZL/5.png"
+      },
+      {
+        "name": "protection",
+        "image": "https://i.ibb.co/C8T5y5j/4.png"
+      }
+    ],
+    "title": "Electro Surgery Therapy",
+    "img": "https://i.ibb.co/Fs15PTM/oral.jpg"
+  }
+]

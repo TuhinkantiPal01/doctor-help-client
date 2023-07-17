@@ -1,0 +1,18 @@
+.appointment{
+    background-image: url(../../../assets/appointment.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.react-calendar{
+    border: 0  !important;
+}
+.react-calendar__navigation{
+    font-size: 16px !important;
+    font-weight: bold !important;
+}
+
+.react-calendar__month-view__weekdays__weekday abbr{
+    text-decoration: none  !important;
+}

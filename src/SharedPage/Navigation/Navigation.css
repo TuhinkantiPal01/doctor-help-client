@@ -1,0 +1,12 @@
+.icon {
+  background-image: linear-gradient(
+    to right,
+    #36f8ff,
+    #00fcf0,
+    #00fed9,
+    #00ffbc,
+    #00ff99
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

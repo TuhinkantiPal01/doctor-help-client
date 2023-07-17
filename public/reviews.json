@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/s3kqL7q/pngwing-com-1.png",
+    "name": "John Doe",
+    "title": "Amazing Product",
+    "review": "I absolutely love this product! It has exceeded my expectations and I would highly recommend it to everyone."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/D72GhrY/pngwing-com.png",
+    "name": "Jane Smith",
+    "title": "Great Service",
+    "review": "The service provided by this company is top-notch. The staff is friendly and helpful, and they always go above and beyond to satisfy their customers."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/YkkryD3/pngwing-com-2.png",
+    "name": "Michael Johnson",
+    "title": "Excellent Quality",
+    "review": "I was impressed with the quality of this product. It is well-made and built to last. I'm very satisfied with my purchase."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/hRksJT1/cheerful-curly-business-girl-wearing-glasses.jpg",
+    "name": "Emily Davis",
+    "title": "Fast Shipping",
+    "review": "The shipping was incredibly fast. I ordered the product and received it the very next day. I'm extremely happy with the service."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/fG2FGDX/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-ta.jpg",
+    "name": "David Wilson",
+    "title": "Impressive Design",
+    "review": "The design of this product is sleek and modern. It looks great in my home and adds a touch of elegance to the decor."
+  },
+
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/Cznjy98/handsome-confident-smiling-man-with-hands-crossed-chest.jpg",
+    "name": "John Doe",
+    "title": "Amazing Product",
+    "review": "I absolutely love this product! It has exceeded my expectations and I would highly recommend it to everyone."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/Sv9G30N/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+    "name": "Jane Smith",
+    "title": "Great Service",
+    "review": "The service provided by this company is top-notch. The staff is friendly and helpful, and they always go above and beyond to satisfy their customers."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/K554KTG/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+    "name": "Michael Johnson",
+    "title": "Excellent Quality",
+    "review": "I was impressed with the quality of this product. It is well-made and built to last. I'm very satisfied with my purchase."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/yFr0VJr/jonas-kakaroto-mj-Rwhvq-EC0-U-unsplash.jpg",
+    "name": "Emily Davis",
+    "title": "Fast Shipping",
+    "review": "The shipping was incredibly fast. I ordered the product and received it the very next day. I'm extremely happy with the service."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/RPT05T1/vicky-hladynets-C8-Ta0gw-Pb-Qg-unsplash.jpg",
+    "name": "David Wilson",
+    "title": "Impressive Design",
+    "review": "The design of this product is sleek and modern. It looks great in my home and adds a touch of elegance to the decor."
+  }
+]
